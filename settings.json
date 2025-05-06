@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "D:\\MediChatbot-with-Generative-AI\\.conda\\python.exe",
+  "python.analysis.diagnosticMode": "workspace",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.languageServer": "Pylance"
+}
